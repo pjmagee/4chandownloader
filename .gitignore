@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ignore directories created for the build process
 bin/*
 obj/*
@@ -15,3 +16,11 @@ obj/*
 _ReSharper.*
 *.resharper
 Ankh.NoLoad
+=======
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+
+# mstest test results
+TestResults
+>>>>>>> 70df7b970f18bbdef12d089e3a366b152bb16d32

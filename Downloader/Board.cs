@@ -36,7 +36,7 @@ namespace Downloader
         }
 
         private const string ThreadImageRegex = "\\d{13}.(jpg|png|gif)"; // contains 13 digits followed by a . and ends in a jpg or png or gif
-        private const string ThreadLinkRegex = "<a href=\"res/\\d{1,12}\">Reply</a>";
+        private const string ThreadLinkRegex = "<a href=\"res/\\d{1,12}\" class=\"replylink\" >Reply</a>";
         private const string ThreadNameRegex = "\\d{1,12}"; // contains digits 1 to 12 long
         private string ImageLinkRegex
         {

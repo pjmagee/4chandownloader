@@ -5,7 +5,7 @@
       <timer days="0" hours="0" minutes="0" seconds="0" disabled="true" />
       <constraint minimum="0" disabled="true" />
     </board>
-    <board name="b" pages="5" folders="true" continuous="true" directory="C:\Temp\" disabled="true" snooze="30">
+    <board name="b" pages="5" folders="true" continuous="true" directory="C:\Temp\" disabled="false" snooze="30">
       <timer days="0" hours="0" minutes="0" seconds="0" disabled="true" />
       <constraint minimum="0" disabled="true" />
     </board>
